@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="Error_Validation(failed)">
+    <classes>
+      <class name="E_commerceTest.tests.Error_ValidationTest">
+        <methods>
+          <include name="errorCheck"/>
+          <include name="launchLogin"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- E_commerceTest.tests.Error_ValidationTest -->
+    </classes>
+  </test> <!-- Error_Validation(failed) -->
+</suite> <!-- Failed suite [Suite] -->

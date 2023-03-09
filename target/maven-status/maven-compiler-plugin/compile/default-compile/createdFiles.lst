@@ -1,0 +1,8 @@
+E_commerceTest\centralizedPlace\centralizedPlace.class
+E_commerceTest\pageobject\loginPage.class
+E_commerceTest\pageobject\OrdersPage.class
+E_commerceTest\pageobject\confirmationPage.class
+E_commerceTest\resources\ExtentReporterNG.class
+E_commerceTest\pageobject\catalogue.class
+E_commerceTest\pageobject\checkOutPage.class
+E_commerceTest\pageobject\cartPage.class
